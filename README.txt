@@ -1,32 +1,46 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# SHIVAM'S PORTFOLIO
+
+Welcome to Shivam Bhatt's portfolio! This portfolio showcases projects and information about Shivam's work and skills.
+
+## Introduction
+
+This portfolio is built using HTML and CSS. It includes information about Shivam Bhatt's skills, projects, contact details, and social media profiles.
+
+## Contents
+
+- [Introduction](#introduction)
+- [Projects](#projects)
+- [Contact Information](#contact-information)
+- [Social Media](#social-media)
+
+## Projects
+
+### 1. 2D_MAZE_GAME
+- **Description**: In this project, a 2D Maze game with 5 different levels is created. It also includes enemies and powerups.
+- **GitHub Link**: [2D_MAZE_GAME](https://github.com/ShiVamBhatt7533/2DMAZE-game)
+
+### 2. Snake_Game
+- **Description**: This project features a classic Snake Game.
+- **GitHub Link**: [Snake_Game](https://github.com/ShiVamBhatt7533/SNAKE_game)
+
+### 3. Tic_Tac_Toe
+- **Description**: A simple Tic Tac Toe game implemented using Java.
+- **GitHub Link**: [Tic_Tac_Toe](https://github.com/ShiVamBhatt7533/Tic_Tac_Toe)
+
+## Contact Information
+
+### Address
+Heilbronn, Germany - 74072
+
+### Phone
+(+49) 155-10304712
+
+### Email
+Shivambhatt7533@gmail.com
+
+## Social Media
+
+- [LinkedIn](https://www.linkedin.com/in/shivam-bhatt-7236132b3)
+- [GitHub](https://github.com/ShiVamBhatt7533)
 
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
